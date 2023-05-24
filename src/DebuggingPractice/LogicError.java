@@ -23,7 +23,6 @@ public class LogicError {
         int[] numbers = {10, 5, 8, 23, 6};
 
         int result = findMax(numbers);
-        int result = findMax(numbers);
         System.out.println("The maximum number: " + result); //PRINTS OUT MAX NUMBER AS 23
     }
 }

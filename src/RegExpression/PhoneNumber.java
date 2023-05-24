@@ -1,6 +1,6 @@
 package RegExpression;
 
-import java.util.regex.Pattern;
+import java.util.regex.*;
 
 public class PhoneNumber {
     public static void main(String[] args) {
